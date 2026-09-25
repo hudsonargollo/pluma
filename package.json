@@ -1,12 +1,11 @@
 {
-  "name": "pluely",
-  "private": false,
-  "version": "0.1.9",
-  "description": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing.",
+  "name": "pluma",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Pluma - A lightning-fast, feather-light, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations.",
   "author": {
-    "name": "Srikanth Nani",
-    "email": "mail@srikanthnani.com",
-    "url": "https://www.srikanthnani.com"
+    "name": "Hudson Argollo",
+    "email": "hudsonargollo@gmail.com"
   },
   "license": "GPL-3.0",
   "homepage": "https://github.com/iamsrikanthnani/pluely#readme",

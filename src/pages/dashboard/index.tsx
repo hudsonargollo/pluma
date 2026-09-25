@@ -49,7 +49,7 @@ const Dashboard = () => {
   return (
     <PageLayout
       title="Dashboard"
-      description="Pluely license to unlock faster responses, quicker support and premium features."
+      description="Pluma AI Desktop Assistant - Fast, privacy-first AI copilot for conversations, meetings, and workflows."
       rightSlot={!hasActiveLicense ? <GetLicense /> : null}
     >
       {/* Pluely API Setup */}
